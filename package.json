@@ -1,0 +1,16 @@
+{
+  "name": "photogallery",
+  "version": "1.0.0",
+  "description": "A gallery-like blog that showcases photos taken by Jack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jack Jones",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
